@@ -1,0 +1,7 @@
+D:\Work\Visual Studio Projects\GTalkReminderSite\GTalkReminderSite\bin\GTalkReminderSite.dll
+D:\Work\Visual Studio Projects\GTalkReminderSite\GTalkReminderSite\bin\GTalkReminderSite.pdb
+D:\Work\Visual Studio Projects\GTalkReminderSite\GTalkReminderSite\bin\EntityFramework.dll
+D:\Work\Visual Studio Projects\GTalkReminderSite\GTalkReminderSite\bin\EntityFramework.xml
+D:\Work\Visual Studio Projects\GTalkReminderSite\GTalkReminderSite\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\Visual Studio Projects\GTalkReminderSite\GTalkReminderSite\obj\Debug\GTalkReminderSite.dll
+D:\Work\Visual Studio Projects\GTalkReminderSite\GTalkReminderSite\obj\Debug\GTalkReminderSite.pdb
